@@ -8,9 +8,9 @@
     "mentor": "Thomas Powell",
     "mentor_img": "https://cse.ucsd.edu/sites/cse.ucsd.edu/files/faculty/powellF17-115x150.jpg",
     "coursesName": "Introducing to JavaScript.",
-    "priceAll": "$100",
-    "totalTime": "(30 hrs)",
-    "pricePer": "$15 per month"
+    "priceAll": "$120",
+    "totalTime": "(35 hrs)",
+    "pricePer": "$10 per month"
   },
   {
     "id": "2",
@@ -21,9 +21,9 @@
     "coursesName": "Python Django Framework",
     "mentor": "Kishan Kumar",
     "mentor_img": "https://www.tutorialslink.com/Article_img/User_pic/0a50f821-b910-4caf-b585-e0f71597b42c.jpg",
-    "priceAll": "$200",
-    "totalTime": "(50 hrs)",
-    "pricePer": "$25 per month"
+    "priceAll": "$300",
+    "totalTime": "(60 hrs)",
+    "pricePer": "$22 per month"
   },
   {
     "id": "3",
@@ -34,9 +34,9 @@
     "coursesName": "Node JS Course",
     "mentor": "Mike Cantelon",
     "mentor_img": "https://images.gr-assets.com/authors/1442615654p5/5424254.jpg",
-    "priceAll": "$50",
-    "totalTime": "(30 hrs)",
-    "pricePer": "$5 per month"
+    "priceAll": "$70",
+    "totalTime": "(45 hrs)",
+    "pricePer": "$6 per month"
   },
   {
     "id": "4",
@@ -45,11 +45,11 @@
     "videos": 50,
     "ratings": 5,
     "coursesName": "React Course",
-    "mentor": "Jhankar Mahbub",
+    "mentor": "nelson ",
     "mentor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-    "priceAll": "$600",
-    "totalTime": "(100 hrs)",
-    "pricePer": "$3 per month"
+    "priceAll": "$700",
+    "totalTime": "(120 hrs)",
+    "pricePer": "$6 per month"
   },
   {
     "id": "5",
@@ -61,8 +61,8 @@
     "mentor": "mehedi hasan",
     "mentor_img": "https://raw.githubusercontent.com/orangenet/azure-react-icons/HEAD/images/react-azure.png",
     "priceAll": "$300",
-    "totalTime": "(45 hrs)",
-    "pricePer": "$30 per month"
+    "totalTime": "(40 hrs)",
+    "pricePer": "$25 per month"
   },
   {
     "id": "6",
@@ -74,7 +74,7 @@
     "mentor": "Rakibul Rakib",
     "mentor_img": "https://miro.medium.com/max/1200/1*DnuKCbMHm-3glV2orhLmIA.png",
     "priceAll": "$500",
-    "totalTime": "(50 hrs)",
-    "pricePer": "$80 per month"
+    "totalTime": "(35 hrs)",
+    "pricePer": "$70 per month"
   }
 ]
