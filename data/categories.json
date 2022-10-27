@@ -17,10 +17,15 @@
   },
   {
     "id": "5",
-    "coursesname": "Introducing to PHP"
+    "coursesName": "Introducing to PHP"
   },
   {
     "id": "6",
     "coursesName": "Angular Framework"
+  },
+
+  {
+    "id": "7",
+    "coursesName": "All Courses"
   }
 ]

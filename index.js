@@ -12,6 +12,12 @@ app.get("/", (req, res) => {
 app.get("/courses-categories", (req, res) => {
   res.send(categories);
 });
+app.get("/courses-categories/:id", (req, res) => {
+  const id = req.params.id;
+  const coursesCategories = courses.find((c) => c.id == id);
+  res.send(coursesCategories);
+});
+
 app.get("/courses", (req, res) => {
   res.send(courses);
 });
